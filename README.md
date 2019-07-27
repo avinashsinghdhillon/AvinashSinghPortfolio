@@ -1,2 +1,2 @@
 # AvinashSinghPortfolio
-This is my showcase of projects, skills and abilities.
+This is a showcase of my projects, skills and abilities.
